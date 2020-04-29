@@ -14,6 +14,9 @@
       "version": "6.5.0"
     }
   },
+  "scripts": {
+    "preview": "tns preview"
+  },
   "dependencies": {
     "vuex": "^3.3.0",
     "@vue/devtools": "^5.3.3",
