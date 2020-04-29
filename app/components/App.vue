@@ -1,6 +1,6 @@
 <template>
     <Page>
-        <ActionBar title="Portfolio" />
+        <ActionBar title="My NativeScript App" />
         <StackLayout>
             <BottomNavigation height="100%">
                 <TabStrip>
